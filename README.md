@@ -9,7 +9,7 @@ You have to add list of genes or list of mutations that you need to find in gene
 
 Usage:
  -       mtbtranslation.py -i [path of input] -o [path of output] -g [path of gene_list.csv] -a [path of Amino.csv] -r [path of Ref_Mtb.csv]
- -   
+
 Example:
  -       mtbtranslation.py -i ./input/*.vcf -o ./output -g ./files/gene_list.csv -a ./files/Amino.csv -r ./files/Ref_Mtb.csv
   
